@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.001" height="18" viewBox="0 0 18.001 18">
+  <g id="Group_3877" data-name="Group 3877" transform="translate(21012 14372)">
+    <path id="Icon_awesome-sort-alpha-up" data-name="Icon awesome-sort-alpha-up" d="M.683,7.393H2.732V19.607a.664.664,0,0,0,.683.643H4.78a.664.664,0,0,0,.683-.643V7.393H7.512a.639.639,0,0,0,.483-1.1L4.58,2.439a.713.713,0,0,0-.965,0L.2,6.3A.639.639,0,0,0,.683,7.393Z" transform="translate(-21012 -14374.25)" fill="#0081c8"/>
+    <path id="Icon_awesome-sort-alpha-down" data-name="Icon awesome-sort-alpha-down" d="M7.513,15.107H5.464V2.893a.664.664,0,0,0-.683-.643H3.415a.664.664,0,0,0-.683.643V15.107H.683A.639.639,0,0,0,.2,16.2l3.415,3.857a.713.713,0,0,0,.966,0L8,16.2A.64.64,0,0,0,7.513,15.107Z" transform="translate(-21002.195 -14374.25)" fill="#0081c8"/>
+  </g>
+</svg>

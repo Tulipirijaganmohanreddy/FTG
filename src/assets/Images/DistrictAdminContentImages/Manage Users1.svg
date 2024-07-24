@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-Manage_Users">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Manage_Users" data-name="Manage Users" clip-path="url(#clip-Manage_Users)">
+    <g id="Group_487" data-name="Group 487" transform="translate(34.653 21.504)">
+      <path id="Path_5093" data-name="Path 5093" d="M26,0H0V26H26Z" fill="none"/>
+    </g>
+    <path id="Path_5091" data-name="Path 5091" d="M26,0H0V26H26Z" transform="translate(25 6.235)" fill="none"/>
+    <g id="Group_489" data-name="Group 489" transform="translate(3 6)">
+      <g id="Group_488" data-name="Group 488" transform="translate(0 0)">
+        <ellipse id="Ellipse_61" data-name="Ellipse 61" cx="8.607" cy="8.607" rx="8.607" ry="8.607" transform="translate(8.607)" fill="#fff"/>
+        <path id="Path_5094" data-name="Path 5094" d="M21.989,21.71c-.473-.022-.947-.043-1.442-.043A27.705,27.705,0,0,0,6.324,25.583a6.288,6.288,0,0,0-2.991,5.444v5.7H23.258a14.982,14.982,0,0,1-2.711-8.607A15.217,15.217,0,0,1,21.989,21.71Z" transform="translate(-3.333 -2.301)" fill="#fff"/>
+        <path id="Path_5095" data-name="Path 5095" d="M38.745,29.092a9.335,9.335,0,0,0-.129-1.356l2.453-2.173-2.152-3.722L35.8,22.895a7.846,7.846,0,0,0-2.324-1.356l-.646-3.206h-4.3l-.646,3.206a7.846,7.846,0,0,0-2.324,1.356l-3.12-1.054-2.152,3.722,2.453,2.173a9.334,9.334,0,0,0-.129,1.356,9.334,9.334,0,0,0,.129,1.356l-2.453,2.173,2.152,3.722,3.12-1.054a7.846,7.846,0,0,0,2.324,1.356l.646,3.206h4.3l.646-3.206A7.846,7.846,0,0,0,35.8,35.289l3.12,1.054,2.152-3.722-2.453-2.173A9.335,9.335,0,0,0,38.745,29.092Zm-8.069,4.3a4.3,4.3,0,1,1,4.3-4.3A4.316,4.316,0,0,1,30.676,33.4Z" transform="translate(1.599 -3.271)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

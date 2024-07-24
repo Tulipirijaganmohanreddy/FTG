@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-District_and_schools_icon">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="District_and_schools_icon" data-name="District and schools icon" clip-path="url(#clip-District_and_schools_icon)">
+    <path id="Path_5088" data-name="Path 5088" d="M9.41,22v6.681l13.552,6.38,13.552-6.38V22l-13.552,6.38ZM22.962,5,1.667,15.021l21.3,10.021,17.424-8.2V28.383h3.872V15.021Z" transform="translate(1.038 3.968)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-Notificationis">
+      <rect width="48" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="Notificationis" clip-path="url(#clip-Notificationis)">
+    <path id="notifications_black_24dp" d="M22.54,40.069a3.594,3.594,0,0,0,3.584-3.584H18.956A3.583,3.583,0,0,0,22.54,40.069ZM33.291,29.318V20.359c0-5.5-2.939-10.106-8.063-11.324V7.816a2.688,2.688,0,0,0-5.375,0V9.034c-5.143,1.218-8.063,5.805-8.063,11.324v8.959L8.205,32.9v1.792H36.874V32.9Z" transform="translate(1.46 1.402)" fill="#fff"/>
+  </g>
+</svg>

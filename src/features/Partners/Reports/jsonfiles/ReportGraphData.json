@@ -1,0 +1,34 @@
+{
+    "data" : [
+        {
+            "id":1,
+            "entity":"Girls",
+            "userGain":100,
+            "userLost":823
+        },
+        {
+            "id":2,
+            "entity":"Boys",
+            "userGain":80,
+            "userLost":313
+        },
+        {
+            "id":3,
+            "entity":"Total",
+            "userGain":60,
+            "userLost":432
+        },
+        {
+            "id":1,
+            "entity":"Girls",
+            "userGain":40,
+            "userLost":823
+        },
+        {
+            "id":1,
+            "entity":"Boys",
+            "userGain":20,
+            "userLost":823
+        }
+    ]
+}

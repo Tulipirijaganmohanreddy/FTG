@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: "poppins-bold";
+    src: url("../src/assets/fonts/Poppins/Poppins-Bold.ttf");
+  }
+  @font-face {
+    font-family: "poppins-extralight";
+    src: url("../src/assets/fonts/Poppins/Poppins-ExtraLight.ttf");
+  }
+  @font-face {
+    font-family: "poppins-italic";
+    src: url("../src/assets/fonts/Poppins/Poppins-Italic.ttf");
+  }
+  @font-face {
+    font-family: "poppins-light";
+    src: url("../src/assets/fonts/Poppins/Poppins-Light.ttf");
+  }
+  @font-face {
+    font-family: "poppins-medium";
+    src: url("../src/assets/fonts/Poppins/Poppins-Medium.ttf");
+  }
+  @font-face {
+    font-family: "poppins-regular";
+    src: url("../src/assets/fonts/Poppins/Poppins-Regular.ttf");
+  }
+  @font-face {
+    font-family: "poppins-semibold";
+    src: url("../src/assets/fonts/Poppins/Poppins-SemiBold.ttf");
+  }
+  @font-face {
+    font-family: "poppins-thin";
+    src: url("../src/assets/fonts/Poppins/Poppins-Thin.ttf");
+  }
+
+
+  .example::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+  .example {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
